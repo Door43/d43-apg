@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apg:home|Door43 (apg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apg|d43-apg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apg/archive/master.zip|d43-apg.zip]]
+
+**Recent Changes**
+{{changes>ns = apg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apg|Ethnologue data]]
+
